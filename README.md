@@ -94,13 +94,4 @@ Feel free to submit issues, pull requests, or suggestions. Contributions are wel
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or inquiries, you can reach out to [your-email@example.com](mailto:your-email@example.com).
-
-# GoKapture_Frontend
-# GoKapture_Frontend
-# GOK
-# GOK
-# GOK
-# GOK
